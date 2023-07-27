@@ -1,0 +1,83 @@
+{
+  "login": [
+    {
+      "name": "Diwash",
+      "email": "diwash.amatya@gmail.com",
+      "password": "admin",
+      "confirmPassword": "admin",
+      "phoneNumber": "9842411394",
+      "id": 1
+    },
+    {
+      "name": "Diwash Raj Amatya",
+      "email": "test@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789",
+      "phoneNumber": "9842411394",
+      "id": 2
+    },
+    {
+      "name": "admin",
+      "email": "diwash.amatya@gmail.com",
+      "password": "admin123",
+      "confirmPassword": "admin123",
+      "phoneNumber": "9842411394",
+      "id": 3
+    },
+    {
+      "name": "Test Group",
+      "email": "test@gmail.com",
+      "phoneNumber": "9842411394",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 4
+    }
+  ],
+  "Today": [
+    {
+      "name": "Diwash Raj Amatya",
+      "email": "diwash.amatya@gmail.com",
+      "services": "Legal Consultant",
+      "contact": "9842411394",
+      "time": "6:00 AM",
+      "date": "2022/12/28",
+      "duration": "30 Min",
+      "status": "Pending",
+      "color": "yellow",
+      "reminder": "Notify",
+      "notified": false,
+      "reschedule": false,
+      "id": 1
+    },
+    {
+      "name": "Diwash Amatya",
+      "email": "test@gmail.com",
+      "services": "Legal Consultant",
+      "contact": "9842411394",
+      "time": "9:00 AM",
+      "date": "2023/Jul/27",
+      "duration": "30 Min",
+      "status": "Pending",
+      "color": "yellow",
+      "reminder": "Notify",
+      "notified": false,
+      "reschedule": false,
+      "id": 2
+    },
+    {
+      "name": "asdasddas",
+      "email": "test@gmail.com",
+      "services": "Legal Consultant",
+      "contact": "9842411394",
+      "time": "9:00 AM",
+      "date": "2023/Jul/28",
+      "duration": "30 Min",
+      "status": "Pending",
+      "color": "yellow",
+      "reminder": "Notify",
+      "notified": false,
+      "reschedule": false,
+      "id": 3
+    }
+  ]
+}
